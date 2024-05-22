@@ -37,5 +37,5 @@
 
 /* Notecard can provide connectivity to any board over ESLOV (I2C) or UART */
 #if defined(USE_NOTECARD)
-  #define SECRET_NOTECARD_PRODUCT_UID ""
+  #define SECRET_NOTECARD_PRODUCT_UID "blues.denverhackathon.transistor_opta"
 #endif
