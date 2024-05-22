@@ -14,9 +14,9 @@ import cbor from 'cbor';
 import IotApi from '@arduino/arduino-iot-client';
 import rp from 'request-promise';
 
-const thingId = "a0c6f7f6-43f8-4644-a8f6-34e8f6551fbf"
-const arduinoDeviceId = "26fe4fbb-6203-4f1d-8350-6ac66fab16ef"
-const bluesDeviceId = "dev:89153172025c"
+const thingId = "54f59602-3f86-49b8-8a2d-6a9e75943c31"
+const arduinoDeviceId = "251d22fe-51fd-46e3-a8f7-8f20147a9510"
+const bluesDeviceId = "dev:868050048101485"
 
 const notehubClientId = "e48b59c8-375f-45c4-a90f-6c02f503329a"
 const notehubClientSecret = "b6527569461d8fbc70e0b7999843a9b47016238a6b1ce96c007cd3f57aba6548"

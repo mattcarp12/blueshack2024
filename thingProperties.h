@@ -8,7 +8,7 @@
 #endif
 
 #if defined(BOARD_HAS_SECRET_KEY)
-  #define BOARD_ID "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  #define BOARD_ID "251d22fe-51fd-46e3-a8f7-8f20147a9510"
 #endif
 
 void onLedChange();

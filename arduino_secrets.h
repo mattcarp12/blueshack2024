@@ -10,7 +10,7 @@
 
 /* ESP8266 ESP32 */
 #if defined(BOARD_HAS_SECRET_KEY)
-  #define SECRET_DEVICE_KEY "my-device-password"
+  #define SECRET_DEVICE_KEY "NWs2AENXSpBX9bJS?pmMkrPKg"
 #endif
 
 /* MKR GSM 1400 */ /* MKR NB 1500 */ /* Portenta CAT.M1/NB IoT GNSS Shield */
