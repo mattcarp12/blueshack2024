@@ -34,7 +34,7 @@ void initProperties() {
 }
 
 #if defined(USE_NOTECARD)
-  NotecardConnectionHandler ArduinoIoTPreferredConnection(SECRET_NOTECARD_PRODUCT_UID);
+  NotecardConnectionHandler ArduinoIoTPreferredConnection(SECRET_NOTECARD_PRODUCT_UID, true);
 #elif defined(BOARD_HAS_ETHERNET)
   /* DHCP mode */
   //EthernetConnectionHandler ArduinoIoTPreferredConnection;
